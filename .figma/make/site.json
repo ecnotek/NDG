@@ -1,0 +1,10 @@
+{
+  "description": "Streamline dance academy management with an intuitive platform for tracking fees, attendance, and member records, designed for easy use by staff.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
